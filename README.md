@@ -13,3 +13,12 @@ This repository contains all weekly assignments, tasks, learning resources, and 
 | Assignment 2 | Data Analysis | 🚧 In Progress |
 | Assignment 3 | Machine Learning Task | ⏳ Pending |
 | Major Project | Final Internship Project | 🚀 Ongoing |
+
+
+🛠️ Technologies & Tools
+Python
+Google Collab
+Git & GitHub
+Agentic AI
+APIs
+AI / Machine Learning Tools
