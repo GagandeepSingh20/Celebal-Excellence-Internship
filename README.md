@@ -16,9 +16,16 @@ This repository contains all weekly assignments, tasks, learning resources, and 
 
 
 🛠️ Technologies & Tools
-Python
-Google Collab
-Git & GitHub
-Agentic AI
-APIs
-AI / Machine Learning Tools
+
+- Python
+
+- Google Collab
+
+- Git & GitHub
+
+- Agentic AI
+
+- APIs
+
+- AI / Machine Learning Tools
+
