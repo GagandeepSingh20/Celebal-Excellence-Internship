@@ -10,13 +10,13 @@ This repository contains all weekly assignments, tasks, learning resources, and 
 | Assignment | Description | Status |
 |------------|-------------|---------|
 | Assignment 1 | Python Basics | ✅ Completed |
-| Assignment 2 | Data Analysis | ✅ Completed |
-| Assignment 3 | Machine Learning Task | 🚧 In Progress |
-| Assignment 4 | Machine Learning Task | 🚧 In Progress |
-| Assignment 5 | Machine Learning Task | 🚧 In Progress |
-| Assignment 6 | Machine Learning Task | 🚧 In Progress |
-| Assignment 7 | Machine Learning Task | 🚧 In Progress |
-| Assignment 8 | Machine Learning Task | 🚧 In Progress |
+| Assignment 2 | Machine Learning | ✅ Completed |
+| Assignment 3 | Classification | 🚧 In Progress |
+| Assignment 4 | Intro to DL | 🚧 In Progress |
+| Assignment 5 | RNN | 🚧 In Progress |
+| Assignment 6 | AE and GAN | 🚧 In Progress |
+| Assignment 7 | RAG & LLMs | 🚧 In Progress |
+| Assignment 8 | Agentic AI | 🚧 In Progress |
 | Major Project | Final Internship Project | ⏳ Pending |
 
 
