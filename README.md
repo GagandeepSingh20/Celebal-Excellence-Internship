@@ -10,9 +10,14 @@ This repository contains all weekly assignments, tasks, learning resources, and 
 | Assignment | Description | Status |
 |------------|-------------|---------|
 | Assignment 1 | Python Basics | ✅ Completed |
-| Assignment 2 | Data Analysis | 🚧 In Progress |
-| Assignment 3 | Machine Learning Task | ⏳ Pending |
-| Major Project | Final Internship Project | 🚀 Ongoing |
+| Assignment 2 | Data Analysis | ✅ Completed |
+| Assignment 3 | Machine Learning Task | 🚧 In Progress |
+| Assignment 4 | Machine Learning Task | 🚧 In Progress |
+| Assignment 5 | Machine Learning Task | 🚧 In Progress |
+| Assignment 6 | Machine Learning Task | 🚧 In Progress |
+| Assignment 7 | Machine Learning Task | 🚧 In Progress |
+| Assignment 8 | Machine Learning Task | 🚧 In Progress |
+| Major Project | Final Internship Project | ⏳ Pending |
 
 
 🛠️ Technologies & Tools
