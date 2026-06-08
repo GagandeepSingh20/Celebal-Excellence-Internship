@@ -11,7 +11,7 @@ This repository contains all weekly assignments, tasks, learning resources, and 
 |------------|-------------|---------|
 | Assignment 1 | Python Basics | ✅ Completed |
 | Assignment 2 | Machine Learning | ✅ Completed |
-| Assignment 3 | Classification | 🚧 In Progress |
+| Assignment 3 | Classification | ✅ Completed |
 | Assignment 4 | Intro to DL | 🚧 In Progress |
 | Assignment 5 | RNN | 🚧 In Progress |
 | Assignment 6 | AE and GAN | 🚧 In Progress |
