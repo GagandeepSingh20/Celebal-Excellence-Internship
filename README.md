@@ -14,7 +14,7 @@ This repository contains all weekly assignments, tasks, learning resources, and 
 | Assignment 3 | Classification | ✅ Completed |
 | Assignment 4 | Intro to DL | ✅ Completed |
 | Assignment 5 | RNN | ✅ Completed |
-| Assignment 6 | AE and GAN | 🚧 In Progress |
+| Assignment 6 | AE and GAN | ✅ Completed |
 | Assignment 7 | RAG & LLMs | 🚧 In Progress |
 | Assignment 8 | Agentic AI | 🚧 In Progress |
 | Major Project | Final Internship Project | ⏳ Pending |
